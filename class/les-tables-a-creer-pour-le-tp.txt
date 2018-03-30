@@ -1,0 +1,10 @@
+		A class mother: group: mamiphères, régime alimentaire
+		A class daughter: sous-group: singes, fauves, serpents
+		A class daughter of daughter: espèces chimpanzée, baboin, gorilles.... 
+
+		An object: chimpanzée-tony, chimpanzée-grincheux, chimpanzée-albert....
+
+		Three database tables to create!
+		a table in database for group
+		a table for sous-group
+		a table for espèces
